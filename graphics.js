@@ -1,5 +1,5 @@
 var graphics = {};
-
+//
 graphics.canvas;
 graphics.width = 320;
 graphics.height = 200;
